@@ -596,5 +596,4 @@ This instruction will transfer bits 0 through 7 are swapped with bits 24 through
 
 **Result:**
 
-<img src="/Users/maxwell/Library/Application Support/typora-user-images/image-20220223152448834.png" alt="image-20220223152448834" style="zoom:50%;" />
-
+<img src="https://raw.githubusercontent.com/Maxwell-Wong/PicGo_Picbed/main/Lab/Labweek2/202202281201920.png" alt="image-20220223152448834" style="zoom:50%;" />
